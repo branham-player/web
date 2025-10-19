@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.branhamplayer.android",
+      "sha256_cert_fingerprints": [
+        "81:F7:39:13:20:7E:B2:A8:7C:9B:64:16:6F:1B:1C:2C:BA:06:51:1E:30:79:52:1F:0D:99:8E:83:92:A8:64:25"
+      ]
+    }
+  }
+]
